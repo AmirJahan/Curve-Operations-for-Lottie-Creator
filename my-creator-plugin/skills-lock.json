@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "creator-plugin-development": {
+      "source": "LottieFiles/creator-plugin-skills",
+      "sourceType": "github",
+      "skillPath": "skills/creator-plugin-development/SKILL.md",
+      "computedHash": "22c7a14fe5aec5a7e041e6401c7c5a5cc38f2423b7c9e81878c3064aa313f6fd"
+    },
+    "creator-plugins-ui": {
+      "source": "LottieFiles/creator-plugin-skills",
+      "sourceType": "github",
+      "skillPath": "skills/creator-plugins-ui/SKILL.md",
+      "computedHash": "570620d4c812d2ffe4802319447a85c8a5b59fcd8f41f9d0ab99e7f038b9386b"
+    }
+  }
+}

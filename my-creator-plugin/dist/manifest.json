@@ -1,0 +1,7 @@
+{
+  "id": "8268237c-5aa2-443a-b198-08ef348e5374",
+  "name": "Curve Ops",
+  "apiVersion": "1",
+  "entry": "plugin.js",
+  "ui": "ui.html"
+}
